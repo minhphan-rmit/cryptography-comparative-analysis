@@ -1,0 +1,6 @@
+Algorithm,Truncated Bits,Number of Samples,Collisions,Collision Probability (%)
+MD5,32,100000,3,0.003
+SHA-1,32,100000,0,0.0
+SHA-256,32,100000,1,0.001
+SHA3-256,32,100000,0,0.0
+Blake2b,32,100000,3,0.003
