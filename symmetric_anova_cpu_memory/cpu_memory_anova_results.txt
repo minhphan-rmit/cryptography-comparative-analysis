@@ -1,0 +1,3 @@
+ANOVA Results:
+Encryption Avg CPU - F-statistic: 0.0015, p-value: 9.9992e-01
+Decryption Avg CPU - F-statistic: 1.9726, p-value: 1.2087e-01

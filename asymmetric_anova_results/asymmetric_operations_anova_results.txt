@@ -1,0 +1,6 @@
+ANOVA Results:
+Encryption - F-statistic: nan, p-value: nan
+Decryption - F-statistic: nan, p-value: nan
+Signing - F-statistic: nan, p-value: nan
+Verification - F-statistic: nan, p-value: nan
+Key Exchange - F-statistic: nan, p-value: nan

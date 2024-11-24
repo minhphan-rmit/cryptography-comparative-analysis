@@ -1,6 +1,0 @@
-Algorithm,Mean Hamming Distance,Std Dev,Min Hamming Distance,Max Hamming Distance
-Blake2b,246.0,,246,246
-MD5,56.0,,56,56
-SHA-1,79.0,,79,79
-SHA-256,126.0,,126,126
-SHA3-256,121.0,,121,121

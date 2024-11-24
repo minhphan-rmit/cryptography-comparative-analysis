@@ -1,6 +1,0 @@
-Algorithm,Truncated Bits,Collision Found,Hamming Distance,Colliding Input
-MD5,16,True,56,6QTDNONH0SalL54KqcVWTLMABd4OopPlY0CjQQ0k0gxLUe19q1HdIncL2BHWQ9Et
-SHA-1,16,True,79,o56BIm9MS0Hpn8Zn1VHatf4mph2iPOg8ru7A1zzDJ6iOMmBIfot8sZ1waUVrW9Mc
-SHA-256,16,True,126,DY82xKpGWR8m061LVUmakPsPEgwHjPM2njIzCieGB3J5pB1emgsq6qQ6OgSet0B3
-SHA3-256,16,True,121,yOKDDc9vsFk6OS4zG22h61z01ekEmPZoCHIdOxWv3SZH6zqymJmIf7IxLGGcFE5R
-Blake2b,16,True,246,Y9fNcvM5LFfpImhx2rirHhGL9ggfZVOX6LeBFhm7rWt4JjqzwEsw9FQyQvuiau3u

@@ -1,0 +1,19 @@
+ANOVA Analysis Results
+==============================
+
+Encryption Time:
+  F-Statistic: 6.6660
+  P-Value: 1.6746e-02
+
+Decryption Time:
+  F-Statistic: 2.7944
+  P-Value: 1.1376e-01
+
+Throughput:
+  F-Statistic: 0.5861
+  P-Value: 5.7640e-01
+
+Memory Utilization:
+  F-Statistic: 1.6177
+  P-Value: 2.5107e-01
+

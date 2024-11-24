@@ -1,6 +1,0 @@
-Algorithm,Truncated Bits,Target Hash,Preimage Found,Found Preimage,Attempts
-MD5,16,abcd,False,None,100000
-SHA-1,16,abcd,True,JlQikxZjloOmurJfYVjRLikDbeAwWwwe0pCNKqYzJMOGuB8S2ofcLQvL2kr7RfUR,26265
-SHA-256,16,abcd,False,None,100000
-SHA3-256,16,abcd,False,None,100000
-Blake2b,16,abcd,True,jyp0vjfinXZUkMp98nTBBHTR2uYCdO4qNcdp1YEc7dE3FXOR7aFUJZQzOOAXLzpz,27460

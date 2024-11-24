@@ -1,0 +1,5 @@
+Algorithm,Encryption Time (5KB),Encryption Time (20KB),Encryption Time (50KB),Decryption Time (5KB),Decryption Time (20KB),Decryption Time (50KB),Throughput (5KB),Throughput (20KB),Throughput (50KB),Memory Utilization (5KB),Memory Utilization (20KB),Memory Utilization (50KB)
+Diffie-Hellman,0.002,0.009,0.019,0.001,0.008,0.022,2500.0,2222.22,2631.5789,5.123,20.361,50.483
+RSA,0.01519,0.04463,0.09339,0.01724,0.04629,0.10927,367.0,477.0,592.0,5.581,22.178,53.369
+ElGamal,0.00202,0.0094,0.056837,0.003622,0.012963,0.031949,2475.25,2127.65,879.7,5581.0,22178.0,55369.0
+ECC,0.00202,0.0094,0.056837,0.003622,0.012963,0.031949,2475.25,2127.65,879.7,5581.0,22178.0,55369.0
