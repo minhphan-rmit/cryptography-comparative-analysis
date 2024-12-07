@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "MITM Attack on Manufacturing",
+    "owner": "Minh Phan",
+    "description": "Threat model of Man In The Middle Attack on Manufacturing Industry.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 2,
+    "reviewer": "None",
+    "threatTop": 0
+  }
+}
